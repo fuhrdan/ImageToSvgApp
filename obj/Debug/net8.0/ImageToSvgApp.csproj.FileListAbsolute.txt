@@ -1,0 +1,6 @@
+C:\Users\ksfuh\ImageToSvgApp\obj\Debug\net8.0\ImageToSvgApp.csproj.AssemblyReference.cache
+C:\Users\ksfuh\ImageToSvgApp\obj\Debug\net8.0\ImageToSvgApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksfuh\ImageToSvgApp\obj\Debug\net8.0\ImageToSvgApp.AssemblyInfoInputs.cache
+C:\Users\ksfuh\ImageToSvgApp\obj\Debug\net8.0\ImageToSvgApp.AssemblyInfo.cs
+C:\Users\ksfuh\ImageToSvgApp\obj\Debug\net8.0\ImageToSvgApp.csproj.CoreCompileInputs.cache
+C:\Users\ksfuh\ImageToSvgApp\obj\Debug\net8.0\ImageToSvgApp.MvcApplicationPartsAssemblyInfo.cache
